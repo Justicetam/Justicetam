@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Justicetam
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning machine learning algorithms with Matlab
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me ...
+- 💞️ You can reach me at miebitam@gmail.com
+- 📫 
 
 <!---
 Justicetam/Justicetam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
